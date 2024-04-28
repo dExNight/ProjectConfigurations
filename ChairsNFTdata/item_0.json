@@ -1,6 +1,6 @@
 {
-"name":"Kirill",
-"description":"Are u sure?",
-"attributes":[{"trait_type":"Level","value":"Legendary"}],
-"image":"https://trikky.ru/wp-content/blogs.dir/1/files/2023/10/10/f5d13466467906c73a793f8d89efc6a1.png"
+    "name": "Chair #1",
+    "description": "Inspired by the classic Eames chair, this chair is a perfect addition to any room.",
+    "attributes": [{ "trait_type": "Rarity", "value": "Legendary" }],
+    "image": "https://github.com/Amir23714/ProjectConfigurations/blob/main/ChairsNFTdata/img/item_0.jpg"
 }
