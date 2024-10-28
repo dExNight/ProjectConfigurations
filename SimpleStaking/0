@@ -1,0 +1,6 @@
+{
+   "name": "stJetton voucher",
+   "description": "",
+   "image": "https://ton.app/media/ca41061a-9da7-4695-ba75-c177dfc5f4c7.jpg",
+   "attributes": [{ "trait_type": "Amount", "value": "1000" }]
+}
