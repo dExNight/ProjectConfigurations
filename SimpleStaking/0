@@ -1,6 +1,6 @@
 {
-   "name": "stJetton voucher",
-   "description": "",
-   "image": "https://ton.app/media/ca41061a-9da7-4695-ba75-c177dfc5f4c7.jpg",
+   "name": "stNighmare voucher",
+   "description": "Voucher that confirms your position in pool",
+   "image": "https://raw.githubusercontent.com/dExNight/ProjectConfigurations/refs/heads/main/SimpleStaking/voucher.webp",
    "attributes": [{ "trait_type": "Amount", "value": "1000" }]
 }
