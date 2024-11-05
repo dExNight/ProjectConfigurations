@@ -2,6 +2,6 @@
   "name": "Wrapped BTC",
   "symbol": "jBTC",
   "decimals": "9",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/dExNight/ProjectConfigurations/refs/heads/main/jBTC/jbtc.png",
   "description": "pizza"
 }
