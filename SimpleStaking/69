@@ -1,5 +1,5 @@
 {
-   "name": "stNighmare voucher",
+   "name": "stNighmare voucher #69",
    "description": "Voucher that confirms your position in pool",
    "image": "https://raw.githubusercontent.com/dExNight/ProjectConfigurations/refs/heads/main/SimpleStaking/voucher.webp",
    "attributes": [{ "trait_type": "Rarity", "value": "Legendary" }]
